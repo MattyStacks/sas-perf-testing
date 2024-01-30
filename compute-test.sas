@@ -1,3 +1,4 @@
+/* Change these two variables to add more data to your output dataset. */
 %let num_rows = 100;
 %let num_iterations = 1;
 
